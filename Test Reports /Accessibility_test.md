@@ -4,6 +4,8 @@
 Description: Links on the website lack discernible text, which affects screen reader users and overall accessibility.
 
  Steps to Reproduce:
+
+
 a. Navigate to the page (insert URL or section of the site).
 
 b. Inspect the links.
@@ -16,7 +18,9 @@ b. Inspect the links.
 Description: Some images on the site do not have alt text, making it inaccessible for visually impaired users.
 
  Steps to Reproduce:
+
 a. Navigate to the image (insert URL or section).
+
 b. Inspect the image element for the presence of alt attributes.]
 
 **Expected Behavior**: All images must have alt attributes describing the content or function of the image.
