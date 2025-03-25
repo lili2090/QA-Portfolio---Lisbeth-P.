@@ -22,4 +22,4 @@ b. Inspect the image element for the presence of alt attributes.]
 ## Actual Behavior: Certain images are missing alt text.
 
 ## Status:
-Failed
+Failed 
