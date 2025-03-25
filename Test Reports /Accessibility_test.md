@@ -1,6 +1,6 @@
 ## Description: Accessibility assessment of BBC.com using the Brave axeDevTools extension. Aspects such as keyboard navigation, color contrast, and screen reader support are checked.
 
-Issue 1: Links Must Have Discernible Text
+**Issue 1**: Links Must Have Discernible Text
 Description: Links on the website lack discernible text, which affects screen reader users and overall accessibility.
 
  Steps to Reproduce:
