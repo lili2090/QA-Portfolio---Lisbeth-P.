@@ -1,4 +1,4 @@
-## Description: Accessibility assessment of BBC.com using the Brave axeDevTools extension. Aspects such as keyboard navigation, color contrast, and screen reader support are checked.
+## Description: Accessibility assessment of BBC.com using automated and manual testing tools. Various aspects such as keyboard navigation, color contrast, screen reader support, interactive elements, and form validation are evaluated.
 
 **BBC001**: Links Must Have Discernible Text
 Description: Links on the website lack discernible text, which affects screen reader users and overall accessibility.
