@@ -1,4 +1,5 @@
-## Description: Accessibility assessment of BBC.com using automated and manual testing tools. Various aspects such as keyboard navigation, color contrast, screen reader support, interactive elements, and form validation are evaluated.
+## Description: Comprehensive UI Testing of BBC.com using Manual and Automated Methods.
+Evaluated various aspects, including layout consistency, responsiveness, navigation flow, interactive elements, accessibility compliance, and overall user experience across different devices and browsers. Identified and documented UI inconsistencies, broken links, and translation issues to improve website functionality.
 
 Accessibility Testing
 
