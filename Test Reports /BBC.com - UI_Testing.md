@@ -69,13 +69,13 @@ Description: The website performs a well traslation.
 
 Steps to reproduce:
 
-a. open website 
+a. Open the website.
 
-b. go to te footer of the website
+b. Scroll to the footer of the page.
 
-c. change the language 
+c. Change the language.
 
-d. navegate the website 
+d. Navigate through the website.
 
 **Expected Behavior**: The website should fully translate into the selected language without any sections remaining in another language.
 
