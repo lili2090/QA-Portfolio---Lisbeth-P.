@@ -16,6 +16,9 @@ Password : admin123
 
 
 Result expected: The user should be logged in successfully.
+
+
+
 Actual Result: Website log the user in as expected.
 
 Status: Approved
@@ -36,6 +39,9 @@ Password : admin1234
 c. Click Log In
 
 Result expected: User cannot log in, because of the error.
+
+
+
 Actual Result: User is unable to log in, and the error message "Invalid credentials" is displayed.
 
 Status: Approved
@@ -53,27 +59,30 @@ a. Open the URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/lo
 b. Place spaces instead of credentials
 
 Result expected: Error message, the user cannot log in.
+
+
+
 Actual Result: You cant log in, error in section username and password is displayed stating that is required. 
 
 Status: Approved
 
 
-**OH004- Password Reset**
+**OH004- Session time out**
 
-Description:Verify if the recovery password is functioning correctly and if the instruction are clear.
+Description: Verify that the session expires after inactivity.
 
 Steps
 
-a. Open the URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+a. Log in with valid credentials
 
 
-b. Click "Forgot your Password?"
+b.  Stay inactive for the defined session timeout period (15 minutes)
+
+c. Try to navigate to another page or perform an action
+
+Result expected: Session will close and redirect the user to the login screen.
 
 
-c. Website ask for Username or email to send the email to be able to reset the password.
+Actual result:
 
-Result expected: Website should prompt for the correct credentials and send the email to reset the password
-Actual Result:Instruction were clear in how to reset the password, and i was able to reset it.
-
-Status: Approved
-
+**OH005- ** 
