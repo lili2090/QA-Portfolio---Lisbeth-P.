@@ -81,6 +81,9 @@ d. Navigate through the website.
 
 **Actual Behavior**: In the Korean language the articule "https://www.bbc.com/korean/institutional-49283197" the articule is in english. 
 
+![image](https://github.com/user-attachments/assets/a770b70b-4bae-4122-8624-44cfb9134c96)
+
+
 The "Do Not Sell My Information" link in the footer is still in English and redirects the user to the homepage instead of the intended article.
 
 ![image](https://github.com/user-attachments/assets/13180e82-fa51-455d-9a4a-29e88c5726ff)
