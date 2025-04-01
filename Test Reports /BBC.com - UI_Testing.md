@@ -83,6 +83,9 @@ d. Navigate through the website.
 
 The "Do Not Sell My Information" link in the footer is still in English and redirects the user to the homepage instead of the intended article.
 
+![image](https://github.com/user-attachments/assets/13180e82-fa51-455d-9a4a-29e88c5726ff)
+
+
 ## Status:
 Failed 
 
