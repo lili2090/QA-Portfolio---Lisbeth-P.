@@ -83,6 +83,8 @@ c. Try to navigate to another page or perform an action
 Result expected: Session will close and redirect the user to the login screen.
 
 
-Actual result:
+Actual result: 20m passed and the session is still opened.
+
+Status: Failed
 
 **OH005- ** 
