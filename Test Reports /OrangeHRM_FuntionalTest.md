@@ -87,4 +87,3 @@ Actual result: 20m passed and the session is still opened.
 
 Status: Failed
 
-**OH005- ** 
